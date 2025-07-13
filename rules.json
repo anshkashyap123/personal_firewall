@@ -1,0 +1,14 @@
+[
+    {
+        "ip": "any",
+        "port": "80",
+        "protocol": "6",
+        "action": "block"
+    },
+    {
+        "ip": "any",
+        "port": "any",
+        "protocol": "1",
+        "action": "allow"
+    }
+]
